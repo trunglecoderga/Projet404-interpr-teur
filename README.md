@@ -1,6 +1,8 @@
+# PROJET 404 
+## Un projet encadré dans le cours INF 404 - parcours MIAGE - DLST UGA. Tout le programme est un interpréteur de langage pseudo-code (y compris l'affectation des variables, condition, boucle). Veuillez consulter les fichiers entree.txt afin de mieux comprendre. Et vous pouvez toujours ajouter des nouvelles entrées pour tester le programme.
 ## Pour compiler l'interpreteur:
 make
-ou
+**ou**
 make interpreteur
 
 
